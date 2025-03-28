@@ -4,8 +4,8 @@ This repository contains NLP and LLM-focused projects I developed during my Mast
 
 ## 📂 Projects
 
-- [Fine-Tuning Transformer Models with Hugging Face](./fine-tuning-nlp-huggingface/)  
-- [Multimodal Sentiment Analysis on Tweets](./multimodal-sentiment-analysis/)
+- [Fine-Tuning Transformer Models with Hugging Face](./Sentiment-Analysis)
+- [Multimodal Sentiment Analysis on Tweets](./Multimodal-Sentiment-Analysis)
 
 ## 🚀 About Me
 
