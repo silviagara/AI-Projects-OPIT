@@ -7,6 +7,7 @@ This repository contains NLP and LLM-focused projects I developed during my Mast
 - [Fine-Tuning Transformer Models with Hugging Face](./Sentiment-Analysis)
 - [Multimodal Sentiment Analysis on Tweets](./Multimodal-Sentiment-Analysis)
 - [Smart Home Assistant with Hybrid NLP Model](./Smart-Home-NLP-Assistant)
+- [Global AI Surveillance: EDA + Predictive Modeling](./AI-Surveillance-EDA-and-Modeling)
 
 ## 🚀 About Me
 
