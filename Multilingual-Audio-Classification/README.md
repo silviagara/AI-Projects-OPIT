@@ -77,11 +77,11 @@ All audio files were either personally recorded or sourced from the internet to 
 
 Silvia Garavaglia  
 [LinkedIn](https://www.linkedin.com/in/silviagaravaglia/) | [GitHub](https://github.com/silviagara)
-```
 
 ---
 
-### 📦 **Final Project Structure:**
+**📦 Final Project Structure:**
+
 ```
 Multilingual-Audio-Classification/
 ├── Multilingual-Audio-Classification.ipynb
@@ -92,3 +92,4 @@ Multilingual-Audio-Classification/
     ├── spanish/
     ├── french/
     └── dutch/
+```
